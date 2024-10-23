@@ -31,7 +31,7 @@ class TopicsForm extends StatelessWidget {
               height: height,
             ),
           ),
-          Center(
+          const Center(
             child: Text(
               "someText",
               style: TextStyle(color: Colors.white),
